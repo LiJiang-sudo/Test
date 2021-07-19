@@ -20,7 +20,7 @@ git pull
 git push origin master
 
 
-1.下载安装node.js
+1.下载安装node.js.
 2.在node.js文件夹新建node-global和node-cache
 3.在环境变量中配置 系统变量新建变量名为node_path  变量值为D:\nodejs\node_global\node_modules 
 然后再变量名为path里面新建一个变量为D:\nodejs\node_global
