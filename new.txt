@@ -1,7 +1,7 @@
 
-https://www.cnblogs.com/cxk1995/p/5800196.html
+git上传项目：https://www.cnblogs.com/cxk1995/p/5800196.html
 
-
+微服务的部署和运行：https://www.cnblogs.com/badaoliumangqizhi/p/13897643.html
 
 更新代码
 第一步：查看当前的git仓库状态，可以使用git status
